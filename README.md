@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Lan</h1>
 <ul>
   <li>I'm working as Back End Developer at TMA Solutions</li>
-  <li>I strongly focus on Backend Development</li>
+  <li>I'm strongly focus on Backend Development</li>
 </ul>
 <h1>Skills and Experience</h1>
 <ul>
