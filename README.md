@@ -6,7 +6,7 @@
 <h1>Skills and Experience</h1>
 <ul>
   <li>Programming languages</li>
-  <div className="tech_img">
+  <div className="tech_img" styles={{background-color: transparent}}>
     <img src="https://w7.pngwing.com/pngs/837/18/png-transparent-logo-java-runtime-environment-programming-language-runtime-system-oracle-text-logo-desktop-wallpaper-thumbnail.png" alt="java"/>
   </div>
   <img src="https://camo.githubusercontent.com/84372c7d2f1a7308844360ecad82d49b3f6cbc068a0c5e31aeea6ca5344b77ba/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b" alt="javascript"/>
